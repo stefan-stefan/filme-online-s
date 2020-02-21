@@ -1,44 +1,213 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.cuevana3.com/wp-content/uploads/2018/04/vengadores-infinity-war-4989-poster-180x260.jpg", Avenger 3: Infinity War 
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jennyinneverland.files.wordpress.com/2016/01/515275-150413.jpg" group-title="MOVIES",Star Wars - The Force Awakens (2015)
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Cruise: Destino em Colisao
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,La La land 4K
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Terminator_Genisys.JPG" group-title="MOVIES",Terminator Genisys (2015) 
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EAqEPQJBV2E/movieposter.jpg" group-title="MOVIES",The Transporter Refueled (2015)
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RqbqQny.jpg" group-title="MOVIES",The Great Wall (2016)
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/logo_movietime-500x250.png" ,MOVIE TIME
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RqbqQny.jpg" group-title="MOVIES",The Great Wall (2016)
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AL:47 Ronin" tvg-logo="http://c2.justlook.net:8880/images/pUH46wa0n4zXZytpriSaoNUXai4_small.jpg" group-title="Albania",47 Ronin
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AL:Avengers: Age Of Ultron" tvg-logo="http://c2.justlook.net:8880/images/t90Y3G8UGQp0f0DrP60wRu9gfrH_small.jpg" group-title="Albania",Avengers: Age Of Ultron
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AL:Doctor Strange" tvg-logo="http://c2.justlook.net:8880/images/4PiiNGXj1KENTmCBHeN6Mskj2Fq_small.jpg" group-title="Albania",Doctor Strange
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AL:Fast and Furious 8" tvg-logo="http://c2.justlook.net:8880/images/dImWM7GJqryWJO9LHa3XQ8DD5NH_small.jpg" group-title="Albania",Fast and Furious 8
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="Aquaman" tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201811/Aquaman-Poster-Italia-1.jpg" group-title="FILM AL CINEMA",Aquaman
-http://62.210.208.170/Films/Aquaman.2018..MULTi.1080p.HDLight.x264.AC3-TOXIC.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="Bumblebee" tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201812/BB_1sht_ART_COREA_70x100_ITA.jpg" group-title="FILM AL CINEMA",Bumblebee
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.hollywoodreporter.com/sites/default/files/custom/Aaron/GOTG2_Teaser_Online_1_Sheet_v2_Lg.jpg" group-title="MOVIES",Guardians of the Galaxy Vol.2 (2017)
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EwNq2Mb.png" group-title="Saga - Fast and Fourios",The Fast and the Furious [FHD ]
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:0,===>   Romania <====
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/55377.ts
+#EXTINF:0,RO: VIASAT NATURE
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32771.ts
+#EXTINF:0,RO: VIASAT EXPLORER
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32772.ts
+#EXTINF:0,RO: TVR 2
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32774.ts
+#EXTINF:0,RO: TVR 1
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32775.ts
+#EXTINF:0,RO: TV1000
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32776.ts
+#EXTINF:0,RO: TV 1000
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32778.ts
+#EXTINF:0,RO: TNT
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32780.ts
+#EXTINF:0,RO: TLC
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32848.ts
+#EXTINF:0,RO: TeleMoldovaPlus
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32781.ts
+#EXTINF:0,RO: Taraf Tv
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32782.ts
+#EXTINF:0,RO: Sport.ro
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32783.ts
+#EXTINF:0,RO: Romania Tv
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32784.ts
+#EXTINF:0,RO: Realtaea TV
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32785.ts
+#EXTINF:0,RO: Realitatea Tv
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32786.ts
+#EXTINF:0,RO: ProTV
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32787.ts
+#EXTINF:0,RO: Prima Love
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32789.ts
+#EXTINF:0,RO: Prima
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32791.ts
+#EXTINF:0,RO: Paramount Channel
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32792.ts
+#EXTINF:0,RO: Neptun
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32794.ts
+#EXTINF:0,RO: NATIONAL Geo wild
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32796.ts
+#EXTINF:0,RO: NatGeographic
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32797.ts
+#EXTINF:0,RO: Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32795.ts
+#EXTINF:0,RO: U TV
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58609.ts
+#EXTINF:0,RO: Pro Cinema
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58610.ts
+#EXTINF:0,RO: prima cool
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58611.ts
+#EXTINF:0,RO: DIGI 24
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58613.ts
+#EXTINF:0,RO: MUSIC CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32798.ts
+#EXTINF:0,RO: Music Channe hu
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32799.ts
+#EXTINF:0,RO: Minimax
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32800.ts
+#EXTINF:0,RO: MegaMax-HD
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32839.ts
+#EXTINF:0,RO: Megamax
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32801.ts
+#EXTINF:0,RO: Look Plus
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32802.ts
+#EXTINF:0,RO: Kiss
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32803.ts
+#EXTINF:0,RO: Kanal D
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32804.ts
+#EXTINF:0,RO: Hit Music Channel
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32805.ts
+#EXTINF:0,RO: History
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32806.ts
+#EXTINF:0,RO: HBO Romania
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32808.ts
+#EXTINF:0,RO: HBO 3
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32809.ts
+#EXTINF:0,RO: HBO 2
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32810.ts
+#EXTINF:0,RO: Happy
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32811.ts
+#EXTINF:0,RO: FISHING & HUNTING
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32812.ts
+#EXTINF:0,RO: EUROSPORT 2
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32813.ts
+#EXTINF:0,RO: EUROSPORT 1
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32814.ts
+#EXTINF:0,RO: Etno Tv
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32815.ts
+#EXTINF:0,RO: DISNEY JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32816.ts
+#EXTINF:0,RO: Digi24
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32817.ts
+#EXTINF:0,RO: DIGI WORLD
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32818.ts
+#EXTINF:0,RO: Digi Sport 4
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32819.ts
+#EXTINF:0,RO: Digi Sport 3
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32820.ts
+#EXTINF:0,RO: Digi Sport 2
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32821.ts
+#EXTINF:0,RO: Digi Sport 1
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32822.ts
+#EXTINF:0,RO: Digi Life
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32823.ts
+#EXTINF:0,RO: DIGI FILM
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32824.ts
+#EXTINF:0,RO: DIGI ANIMAL WORLD
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32825.ts
+#EXTINF:0,RO: DIGI 24 CRAIOVA
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32826.ts
+#EXTINF:0,RO: CINEMAX 2
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32828.ts
+#EXTINF:0,RO: B1 TV
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32829.ts
+#EXTINF:0,RO: AXN WHITE
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32831.ts
+#EXTINF:0,RO: AXN BLACK
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32832.ts
+#EXTINF:0,RO: AXN
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32833.ts
+#EXTINF:0,RO: ANTENA STARS
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32834.ts
+#EXTINF:0,RO: Antena 3 HD
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32847.ts
+#EXTINF:0,RO: ANTENA 3
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32835.ts
+#EXTINF:0,RO: Antena 1 HD
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32846.ts
+#EXTINF:0,RO: Antena 1
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32836.ts
+#EXTINF:0,RO: Alfa Omega
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32845.ts
+#EXTINF:0,RO: AGRO TV
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32837.ts
+#EXTINF:0,RO: Acasa Tv HD
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32844.ts
+#EXTINF:0,RO: ACASA TV
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32838.ts
+#EXTINF:0,RO:  DOLCE SPORT 1
+#EXTVLCOPT:network-caching=1000
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32840.ts
